@@ -6,7 +6,7 @@ COURSE : IKB21403 VULNERABILITY ANALYSIS
 
 LAB : L01-B01
 
-PREPARED FOR : 
+PREPARED FOR : Ms. Nor Adani Kamal Mohamad Nasir
 
 Performing System Hacking of BlueMoon 2021
 
