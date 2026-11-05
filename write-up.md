@@ -13,9 +13,9 @@ Performing System Hacking of BlueMoon 2021
 PENTEST MENTHODOLOGY
 1. Reconnaissance - netdiscover
 2. Scanning - nmap
-3. Gaining Access - gobuster, ftp, hydra, ssh
+3. Gaining Access - gobuster, ftp, metasploit, ssh
 4. Privilege Escalation - sudo -l, feedback.sh
-5. Maintain Access - Python shell upgrade
+5. Maintain Access - docker
 6. Clear Tracks - history -c
 
 STEPS
